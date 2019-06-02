@@ -1,5 +1,5 @@
 # CNT-TFT-Verilog-A
-Upcoming updates on June 2nd related to our recent publication in Nature Communications, 2019
+Upcoming updates on June 10th related to our recent publication in Nature Communications, 2019 and DAC 2019.
 
 References:
 
