@@ -1,5 +1,5 @@
 # CNT-TFT-Verilog-A
-Upcoming updates on June 10th related to our recent publication in Nature Communications, 2019 and DAC 2019.
+Upcoming updates to our recent publication in Nature Communications, 2019 and DAC 2019. Still wrapping up the source codes and readme files. Feel free to contact me (lshao@ucsb.edu) for more information regarding the updates.
 
 References:
 
